@@ -21,4 +21,4 @@ The suffix tree of *s*, denoted *T(s)*, is defined as follows:
 **Return:** The longest substring of *s* that occurs at least *k* times in *s*. (If multiple solutions exist, you may return any single solution.)
 
 ## Example use
-```python longrep.py test_lrep.py```
+```python longrep.py test_lrep.txt```
